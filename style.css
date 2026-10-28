@@ -1,0 +1,16 @@
+body {font-family: "Poppins", sans-serif;  
+}
+h1{
+    font-size: 40px;
+}
+.text{margin-top: 50px;}
+span{
+    color:coral;
+}
+.half{
+    width: 40%;
+    float: left;
+}
+.half img{
+    width: 100%;
+}
